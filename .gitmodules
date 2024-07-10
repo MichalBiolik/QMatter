@@ -2,3 +2,13 @@
 	path = Components/ThirdParty/Matter/repo
 	url = https://github.com/Qorvo/connectedhomeip
 	branch = v1.1.0.1_qorvo
+
+[submodule "Components/ThirdParty/openthread"]
+	path = Components/ThirdParty/openthread
+	url = https://github.com/openthread/openthread
+	branch = main
+
+[submodule "Components/Qorvo/repo"]
+	path = Components/Qorvo/repo
+	url = https://github.com/Qorvo/qpg-openthread
+	branch = master
